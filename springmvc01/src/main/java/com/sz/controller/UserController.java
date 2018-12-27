@@ -1,15 +1,17 @@
-package com.sz.mapper;
+package com.sz.controller;
 
 import com.sz.pojo.User;
+import org.springframework.stereotype.Controller;
 
 @Controller
 public class UserController {
 
     /**
-     * zhes
+     * 这是查询全部
      * @return
-     */z
+     */
     public String all(){
+
 
 
 
